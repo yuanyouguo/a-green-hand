@@ -12,7 +12,7 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    int name[10]={0};
+    int name[2]={0};
     printf("%d",name[11]);
     
     
